@@ -3,8 +3,7 @@ India's chatting application.
 
 
 ### SCREENSHOT:
-<img src="ss/1.jpg" width="20%">
-<img src="ss/2.jpg" width="20%">
+<img src="ss/1.jpg" width="20%"><img src="ss/2.jpg" width="20%">
 <img src="ss/3.jpg" width="20%">
 <img src="ss/4.jpg" width="20%">
 <img src="ss/5.jpg" width="20%">
